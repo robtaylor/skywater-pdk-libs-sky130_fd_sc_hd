@@ -8085,7 +8085,7 @@
   "pin,M0": {
     "direction": "internal",
     "internal_node": "M0",
-    "related_ground_pin": "VNB",
+    "related_ground_pin": "VGND",
     "related_power_pin": "VPWR"
   },
   "pin,SCE": {
